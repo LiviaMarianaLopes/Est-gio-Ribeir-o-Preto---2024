@@ -7,3 +7,4 @@ while k < indice:
     soma += k
 
 print(soma)
+# O valor da variável soma resulta em 91
